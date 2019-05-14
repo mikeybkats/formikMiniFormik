@@ -1,5 +1,5 @@
 ## This is a version of the mini formik demo from Jared Palmer transposed into typescript
-In case anyone wants to see how to do this in typescript see miniformik.tsx
+[In case anyone wants to see how to do this in typescript see miniformik.tsx](https://github.com/mikeybkats/formikMiniFormik/blob/master/src/MiniFormik.tsx)
 
 [Here is the full presentation from Jared](https://www.youtube.com/watch?v=oiNtnehlaTo)
 
