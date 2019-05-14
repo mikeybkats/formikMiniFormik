@@ -30,8 +30,8 @@ class MiniFormik extends React.Component<IMiniFormikProps, IMiniFormikState> {
   constructor(props: IMiniFormikProps){
     super(props);
     this.state = {
-      values: this.props.initialValues || {},
-      touched: this.props.initialTouched || {},
+      values: props.initialValues || {},
+      touched: props.initialTouched || {},
       errors: {},
       handleSubmit: () => {}
     };
