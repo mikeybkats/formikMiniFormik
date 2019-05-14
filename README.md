@@ -1,3 +1,8 @@
+## This is a version of the mini formik demo from Jared Palmer transposed into typescript
+In case anyone wants to see how to do this in typescript see miniformik.tsx
+
+[Here is the full presentation from Jared](https://www.youtube.com/watch?v=oiNtnehlaTo)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
